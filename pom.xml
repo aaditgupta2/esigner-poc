@@ -17,7 +17,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<esapi.version>2.1.0.1</esapi.version>
+		<esapi.version>2.5.2.0</esapi.version>
 		<docusign.version>2.8.0</docusign.version>
 	</properties>
 
